@@ -35,6 +35,8 @@ L'objectif principal est de tester les réseaux de neurones que je vous propose 
    
 8.  **Application sur d'autres dataset**  Tester vos reseaux sur d'autres dataset existants en procédant à un nouvel apprentissage (on peut par exemple tester sur la datset MNIST , MNIST Fashion, essayer de trouver 2 autres dataset) Afficher les résultats obtenus (de manière synthétiques  et Montrer si la spécilisation a été différentes)
 
+9. **Enrichissement du dataset CIFAR10** Créer un 4 images par classe du CIFAR10 pour enrichier le dataset CIFAR utilisé au début, quelle sont les resultats obtenus ? Sont ils satisfaisant ?
+
 ## Rendu
 - Le rendu doit être un unique fichier Jupyter Notebook, hébergé sur Gitlab est associé à votre rendu complet . L'avantage du format ipynb et qu'il contient le résulat de votre derniere execution avant sauvegarde mais il peut être aussi complétement regenerer avec les codes pythons
 - Assurez-vous que votre notebook est bien documenté et que chaque section est clairement indiquée. Vous pouvez rédiger en francais ou en anglais 
