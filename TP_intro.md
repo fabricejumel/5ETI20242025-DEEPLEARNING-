@@ -1,9 +1,11 @@
 # Introduction
 
 ## Bibliographie
-Une bibliographie est  fournie pour vous inspirer dans vos recherches 
+Une bibliographie est  fournie .
 
+L'ideal est de consulter en detail le cours de l'ESIEE et de faire les différents QCM propoposés depuis === LES RESEAUX === jusque — FIN QCM —
 
+Vous pourrez comme Rendu du TP_intro une synthese de ce que vous avez appris et de ce qui vous a le plus surpris. (Il est conseillé de finaliser ce TP intro, une fois  que vous avez dèja un peu avancé sur le TP classification.
 
 
 
