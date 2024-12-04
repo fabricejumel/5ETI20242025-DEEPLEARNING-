@@ -13,7 +13,7 @@
 > Le rendu doit être finalisé pour le Vendredi 20 décembre 2024 23H00 
 
 
-Il est recommandé de travailler dans un environnement virtuel (si fait en local et pas sur google collab)
+SI une partie de votrre travail ce fait en local, il est recommandé de travailler dans un environnement virtuel (si fait en local et pas sur google collab)
 
 ``` bash
 # Creation initiale  du virtual env
