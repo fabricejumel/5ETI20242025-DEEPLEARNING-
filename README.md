@@ -3,7 +3,7 @@
 
 ## Module DEEPLEARNING
 
-<img src="img/th.jpeg" height="300">
+<img src="img/th.webp" height="300">
 
 
 > [!IMPORTANT]
