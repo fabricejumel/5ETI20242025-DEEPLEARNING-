@@ -33,7 +33,7 @@ You must restart the runtime in order to use newly installed versions.
 
  ## 3. Question 3
 
- 3.a À quoi sert TensorFlow Hub, et existe-t-il des solutions équivalentes ?
+ 3.a À quoi sert TensorFlow Hub (ou son remplaçant) , et existe-t-il des solutions équivalentes ?
 
  3.b Combien de réseaux de détection d'objets trouve-t-on sur TensorFlow Hub ?
 
