@@ -68,6 +68,6 @@ La dernière partie du modèle sauvegarde votre modèle *fine-tuné*. Créez un 
 
 ---
 
-## Question 6 (Exploratoire)
+## Question 7 (Exploratoire)
 
 Proposez un *fine-tuning* particulier en trouvant un dataset original. Montrez en quoi les résultats sont mauvais avant le *fine-tuning*, puis montrez le résultat après. Êtes-vous satisfait ?
