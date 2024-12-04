@@ -10,10 +10,10 @@
 > Le rendu se fera  sous forme d'un git sous gitlab qui sera généré une fois les groupes fixés. Le rendu se fera en monome ou binome. Dans le cas des binomes, les 2 comptes doivent contribuer de manière équitable ( au sens git)
 
 > [!CAUTION]
-> Le rendu doit être finalisé pour le Mardi 12 novembre 2024 23H00 
+> Le rendu doit être finalisé pour le Vendredi 20 décembre 2024 23H00 
 
 
-Il est recommandé de travailler dans un environnement virtuel
+Il est recommandé de travailler dans un environnement virtuel (si fait en local et pas sur google collab)
 
 ``` bash
 # Creation initiale  du virtual env
@@ -33,18 +33,13 @@ Les actvités
 
 TP 0 [TP Intro ](TP_intro.md)
 
-TP 1 [TP Couleur ](TP_couleur.md)
+TP 1 [TP classification et CNN ](TP_classifcation.md)
 
-TP 2 [TP Intro detection ](TP_vision_detection.md)
+TP 2 [TP detection suite ](TP_vision_detection_suite.md)
 
-TP 3 [TP classification et CNN ](TP_classifcation.md)
+TP 3 [TP LLM ](TP_LLM_intro.md) 
 
-TP 4 [TP detection suite ](TP_vision_detection_suite.md)
-
-TP 5 [TP LLM ](TP_LLM_intro.md) Pas à faire (si plus de temps ;-)
-
-TP6 [TP GAN et VAE](TP_vision_generation.md) Pas à faire  (si plus de temps ;-)
-
+TP 4  [TP GAN et VAE](TP_vision_generation.md)
 
 
 
