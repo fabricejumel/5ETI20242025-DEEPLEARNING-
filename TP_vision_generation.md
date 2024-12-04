@@ -46,4 +46,4 @@ Même question pour le code suivant :
 
 **1.e** Y a-t-il une différence entre les deux approches ?
 
-(BONUS) **1.f** Essayer d’utiliser le dataset Pokémon disponible sur Kaggle pour générer des Pokémon.
+(BONUS) **1.f** Essayer d’utiliser le dataset Pokémon disponible sur Kaggle pour générer des Pokémon à la fois sur l'appriche VAE et l'approche GAN
