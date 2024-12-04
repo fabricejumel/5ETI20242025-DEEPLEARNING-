@@ -1,7 +1,7 @@
-# 5IRC_20242025-IAVISION
+# 5ETI20242025-DEEPLEARNING-
 
 
-## Module VISION
+## Module DEEPLEARNING
 
 <img src="img/th.jpeg" height="300">
 
