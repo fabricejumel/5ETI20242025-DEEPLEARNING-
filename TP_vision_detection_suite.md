@@ -56,3 +56,4 @@ You must restart the runtime in order to use newly installed versions.
 
 4.e Dans ce cas, doit-on procéder à un *fine-tuning* ? Si oui, comment procéder et quel serait le format du jeu de données ?
 
+4.f (Bonus) Essayer de créer un detecteur à partir du réseau vanilla CNN utilisé dans la partie Classification
