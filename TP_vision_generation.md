@@ -12,7 +12,9 @@ On s’intéresse au réseau suivant :
 > En cas de problème  d'excecution sur la fin,  utilisez une version ulterieure de tensorflow
 >!pip install tensorflow==2.12.0 (à faire section code notebook)
 > et vous aurez sans doute  à relancer la machine d'execution pour la prise en compte
-> ca arrive souvent de devoir downgrader la version de numpy de tensorflow ou autres librairies pour pouvoir lancer des exemples datant de quelques années 
+
+> [!INFO]
+>Ca arrive souvent de devoir downgrader la version de numpy de tensorflow ou autres librairies pour pouvoir lancer des exemples datant de quelques années.
 
 **1.a** Mettre en œuvre le réseau.
 
