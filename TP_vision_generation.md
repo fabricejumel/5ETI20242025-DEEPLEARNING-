@@ -14,7 +14,7 @@ On s’intéresse au réseau suivant :
 > et vous aurez sans doute  à relancer la machine d'execution pour la prise en compte
 
 > [!NOTE]  
->Ca arrive souvent de devoir downgrader la version de numpy, de tensorflow ou d'autres librairies pour pouvoir lancer des exemples datant de quelques années. Les exemples les plus récents peuvent ne fonctionner que sur les dernieres cartes graphiques et il peut du coup arriver que ce soit plus pertinent d'utiliser d'anciens exemples.
+>Il arrive souvent de devoir rétrograder la version de NumPy, de TensorFlow ou d'autres bibliothèques pour pouvoir exécuter des exemples datant de quelques années. Les exemples les plus récents peuvent parfois ne fonctionner qu'avec les dernières cartes graphiques, ce qui peut rendre l'utilisation d'anciens exemples plus pertinente.
 
 **1.a** Mettre en œuvre le réseau.
 
