@@ -13,7 +13,7 @@ On s’intéresse au réseau suivant :
 >!pip install tensorflow==2.12.0 (à faire section code notebook)
 > et vous aurez sans doute  à relancer la machine d'execution pour la prise en compte
 
-> [!INFO]
+> [!NOTE]  
 >Ca arrive souvent de devoir downgrader la version de numpy, de tensorflow ou d'autres librairies pour pouvoir lancer des exemples datant de quelques années. Les exemples les plus récents peuvent ne fonctionner que sur les dernieres cartes graphiques et il peut du coup arriver que ce soit plus pertinent d'utiliser d'anciens exemples.
 
 **1.a** Mettre en œuvre le réseau.
