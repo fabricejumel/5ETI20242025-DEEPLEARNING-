@@ -31,7 +31,7 @@ L'objectif principal est de tester les réseaux de neurones que je vous propose 
 
 6. **Explicabilité :** Une derniere partie s'interessera à l'explicabilité des résultats , en utilisant par exemple GradCAM++ implémenté sous [tf_keras_vis](https://keisen.github.io/tf-keras-vis-docs/examples/attentions.html#GradCAM++). Vous justifirez ou critiquerez mon choix. Proposez autres choses si ca vous semble plu pertinent . Dans tous les cas, on appliquera au modele et aux images utilisés dans le notebook.
 
-7. **Speciaisation des couches** On aimerait voir comment se sont spécialiser les couches ? Comment reprsenter cela ? Proposez une solution pour le voir
+7. **Speciaisation des couches (BONUS)** On aimerait voir comment se sont spécialiser les couches ? Comment reprsenter cela ? Proposez une solution pour le voir
    
 8.  **Application sur d'autres dataset**  Tester vos reseaux sur d'autres dataset existants en procédant à un nouvel apprentissage (on peut par exemple tester sur la datset MNIST , MNIST Fashion, essayer de trouver 2 autres dataset) Afficher les résultats obtenus (de manière synthétiques  et Montrer si la spécilisation a été différentes)
 
