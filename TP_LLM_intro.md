@@ -60,16 +60,16 @@ Le but de ce code est de procéder à un *fine-tuning* du modèle.
 
 ## Question 5
 
-Refaites les tests en partant du même modèle sans le *fine-tuning*. Comment procéder ? Que pensez-vous de la différence ?
+**5.a** Refaites les tests en partant du même modèle sans le *fine-tuning*. Comment procéder ? Que pensez-vous de la différence ?
+
+**5.b** Tester sur des exemples issus du dataset d'apprentissage
+
+**5.b** En vous inspirant du dataset utilisé , trouvé des cas pertinent où l'apprentissage a servi à quelque chose 
 
 ---
 
-## Question 6
 
-La dernière partie du modèle sauvegarde votre modèle *fine-tuné*. Créez un code Python qui l’utilise directement.
-
----
 
 ## Question 7 (Exploratoire)
 
-Proposez un *fine-tuning* particulier en trouvant un dataset original. Montrez en quoi les résultats sont mauvais avant le *fine-tuning*, puis montrez le résultat après. Êtes-vous satisfait ?
+Proposez un *fine-tuning* particulier en trouvant un dataset original. Quelle est la taille conséillé pour ce dataset. Montrez en quoi les résultats sont mauvais avant le *fine-tuning*, puis montrez le résultat après. Êtes-vous satisfait ?
