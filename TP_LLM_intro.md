@@ -6,6 +6,7 @@
 
 On s’intéresse au code suivant :  
 [Colab LLM Fine-tuning](https://colab.research.google.com/drive/1wvhDmAnTGQE4YvCS123xw8twFPNMEfaf)
+[Tester son modele enregistré sous Hugging Face](https://colab.research.google.com/drive/1kVxUn5rvvetJzftgSiSUNtaNZTxnxkYq?usp=sharing)
 
 **1.a** À quoi correspond le site Hugging Face Hub cité dans le document ? Créez-vous un compte.
 
