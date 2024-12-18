@@ -4,7 +4,7 @@
 
 ## Question 1
 > [!CAUTION]
-> Vous avez besoin de vous créer à un moment un compte sur hugginface et surtout de générer un token, ce token doit être un U+1F534'WRITE TOKEN', et penser idéallement à le sauvegarder
+> Vous avez besoin de vous créer à un moment un compte sur hugginface et surtout de générer un token, ce token doit être un [- red WRITE TOKEN -], et penser idéallement à le sauvegarder
 
 [Colab LLM Fine-tuning](https://colab.research.google.com/drive/1wvhDmAnTGQE4YvCS123xw8twFPNMEfaf)
 
