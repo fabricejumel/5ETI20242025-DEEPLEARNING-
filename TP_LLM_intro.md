@@ -76,10 +76,12 @@ Proposer une liste de différents LLM utilisables pour faire deu finetuning,  qu
 
 ## Question 7 (Exploratoire)
 
-Proposez un *fine-tuning* particulier en trouvant un dataset original. Quelle est la taille conseillé pour ce dataset. Montrez en quoi les résultats sont mauvais avant le *fine-tuning*, puis montrez le résultat après. Êtes-vous satisfait ?
+Quelles sont les différentes outils proposés classiquement pour faire du finetuning de LLM ?
 
 ## Question 8 (Exploratoire)
 
-Quelles sont les différentes outils proposés classiquement pour faire du finetuning de LLM ?
+Proposez un *fine-tuning* particulier en trouvant un dataset original. Quelle est la taille conseillé pour ce dataset. Montrez en quoi les résultats sont mauvais avant le *fine-tuning*, puis montrez le résultat après. Êtes-vous satisfait ?
+
+
 
 
