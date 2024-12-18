@@ -3,8 +3,9 @@
 ---
 
 ## Question 1
+> [!CAUTION]
+> Vous avez besoin de vous créer à un moment un compte sur hugginface et surtout de générer un token, ce token doit être un WRITE TOKEN, et penser idéallement à le sauvegarder
 
-On s’intéresse au code suivant :  
 [Colab LLM Fine-tuning](https://colab.research.google.com/drive/1wvhDmAnTGQE4YvCS123xw8twFPNMEfaf)
 
 [Tester son modele enregistré sous Hugging Face](https://colab.research.google.com/drive/1kVxUn5rvvetJzftgSiSUNtaNZTxnxkYq?usp=sharing)
