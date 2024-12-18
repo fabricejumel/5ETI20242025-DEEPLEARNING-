@@ -75,3 +75,11 @@ Le but de ce code est de procéder à un *fine-tuning* du modèle.
 ## Question 7 (Exploratoire)
 
 Proposez un *fine-tuning* particulier en trouvant un dataset original. Quelle est la taille conseillé pour ce dataset. Montrez en quoi les résultats sont mauvais avant le *fine-tuning*, puis montrez le résultat après. Êtes-vous satisfait ?
+
+## Question 8 (Exploratoire)
+
+Quelles sont les différentes outils proposés classiquement pour faire du finetuning de LLM ?
+
+## Question 9 (Exploratoire)
+
+Proposer une liste de différents LLM utilisables pour faire deu finetuning,  quelles sont les caractéristqiues des machines nécessaires (minimum et idéal) pour les utiliser en inference et pour les fine tuner .
